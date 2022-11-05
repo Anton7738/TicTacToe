@@ -1,0 +1,10 @@
+TODO:
+
+1. Fix checkWin() errors --DONE--
+2. Error checking for already selected tiles --DONE--
+3. Implement computer logic
+4. Fix Display irregularities
+5. Implement draw case --DONE--
+6. Reset board --DONE--
+
+7. Bot Wars

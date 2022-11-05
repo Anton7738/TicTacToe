@@ -1,0 +1,17 @@
+Computer Playing Rules:
+
+1. Select at random for first turn
+2. Looks to block on player's third adjacent
+3. Avoids making stupid placements if not immediately threatened
+4. Looks to place its own third adjacent if two exist consecutively
+
+2eg. x x o
+
+3eg. o
+       o 
+         o
+
+Split decision cases:
+
+1. When there are two ways for player to win
+2. When there are two ways for computer to win
