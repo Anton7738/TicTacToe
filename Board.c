@@ -14,8 +14,6 @@ char horiz_line = '-';
 char placeholder = 'H';
 char plus_line = '+';
 
-// This is a message for future Anton
-
 void printBoard(char board[7][13]) {
 
     for (int i = 0; i < 7; i++) {
