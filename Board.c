@@ -16,20 +16,6 @@ char plus_line = '+';
 
 // This is a message for future Anton
 
-/*
-You mf idiot, char ttBoard[n][m] means n rows
-and m columns. Thats:
-
-n i                      mmmmmmmmmmmm  jjjjjjjjjjjjjjjj
-n i                      mmmmmmmmmmmm  jjjjjjjjjjjjjjjj
-n i                      mmmmmmmmmmmm  jjjjjjjjjjjjjjjj
-n i                      mmmmmmmmmmmm  jjjjjjjjjjjjjjjj
-n i                      mmmmmmmmmmmm  jjjjjjjjjjjjjjjj
-
-or i's and n's apply for vertical rules
-and j's and m's apply for horizontal rules
-*/
-
 void printBoard(char board[7][13]) {
 
     for (int i = 0; i < 7; i++) {
